@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+}
+h2{
+    color: greenyellow; font-weight: bold;
+}
+h3{
+    color: white;
+     font-weight: bold;
+}
+img{
+    width: 251px;
+     height: 351px;
+      border-radius: 25px;
+}
+.para{
+    color: white; 
+    font-size: 18px;
+}
+.name{
+    color:greenyellow;
+     margin-left: 58px;
+     font-weight: bold;
+}
+.nava{
+    margin-left:60%;
+}
+.anc {
+    color:white;
+}
+.bttn1{
+    margin-left: 20px;
+}
+.bttn2{
+    margin-left:40px;
+}
+.btt{
+    margin-top: 60px;
+}
+.hlo
+{
+    color:white;
+    margin-left: 25px;
+}
+
+
+.main {
+width: 50%;
+ float: left;
+}
+.left{
+    margin-left: 58px;
+}
+.right {
+     margin-left:65%;
+     width:250px;
+      margin-top: 90px; 
+      height: 350px; 
+      background-color: aqua; 
+      border-radius: 25px;
+}
